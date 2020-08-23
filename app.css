@@ -1,0 +1,68 @@
+
+
+body {
+    background: #ffffff;
+    font-family: 'Barlow Semi Condensed',sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: 600;
+    letter-spacing: 0.7rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+hr {
+    border-color: black;
+}
+
+.quote {
+    font-size: 1rem;
+}
+
+.text-navy {
+    color: #445897;
+}
+.card {
+    margin-top: 2rem;
+}
+
+.btn-whatever {
+    color: #E65324;
+    border-color: #E65324;
+}
+
+.btn-whatever:hover {
+    background: #E65324;
+    border-color: #E65324;
+}
+
+#canvas {
+    background: #ffffff;
+}
+
+#card-top {
+    color: #ffffff;
+    background: #2C3A61;
+}
+
+#card-bot {
+    color: #000000;
+    background: #FFFFFF;
+    padding: 100px 0px;
+}
+
+span:hover {
+    color: #E65324;
+    transition: color 200ms;
+}
+
+@media (max-width: 1200px) {
+
+}
+/* #445897 */
+/* #E65324 */
